@@ -1,0 +1,17 @@
+.hello {
+    color: red;
+    font-weight: 700;
+}
+button {
+    display: block;
+    background-color: rgb(210, 28, 177);
+    padding: 5px;
+    border-radius: 5px;
+    border-color: red;
+    color: white;
+    margin-top: 10px;
+}
+
+body {
+    background-color: bisque;
+}
